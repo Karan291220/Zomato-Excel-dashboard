@@ -14,3 +14,5 @@ This dashboard helps in understanding customer preferences, sales distribution, 
 
 
 ![image_alt](https://github.com/Karan291220/Zomato-Excel-dashboard/blob/main/Dashboard%20images%20and%20work/main.png?raw=true)
+
+![image_alt](https://github.com/Karan291220/Zomato-Excel-dashboard/blob/6175b3e52638ce7a17efed33d6a160aa1837aba7/Dashboard%20images%20and%20work/question.png)
